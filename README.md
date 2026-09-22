@@ -61,11 +61,13 @@ Official (or project-maintained) download pages. Prefer these over third-party m
 - OBS GitHub releases: https://github.com/obsproject/obs-studio/releases
 - Godot archive of all versions: https://godotengine.org/download/archive/
 - HandBrake GitHub releases: https://github.com/HandBrake/HandBrake/releases/latest
+- 7-Zip GitHub: https://github.com/ip7z/7zip/releases
+- Scratch desktop source: https://github.com/scratchfoundation/scratch-desktop
 
 ## Credits
+
 All apps have been suggested in video below, I am just compiling into md for easier download.
+
 [Every Free App You Actually Need Explained in 20 Minutes](https://www.youtube.com/watch?v=Bf5K4fpWMA4) | Explainer Chris & explainerguy01
 [Every Free App You Actually Need Explained (Part 2)](https://www.youtube.com/watch?v=AqPi6WjzM_Q) | Explainer Chris & explainerguy01
 [Every Free App You Actually Need Explained (Part 3)](https://www.youtube.com/watch?v=dSOdmHcD-gw) | Explainer Chris & explainerguy01
-- 7-Zip GitHub: https://github.com/ip7z/7zip/releases
-- Scratch desktop source: https://github.com/scratchfoundation/scratch-desktop
