@@ -68,6 +68,6 @@ Official (or project-maintained) download pages. Prefer these over third-party m
 
 All apps have been suggested in video below, I am just compiling into md for easier download.
 
-[Every Free App You Actually Need Explained in 20 Minutes](https://www.youtube.com/watch?v=Bf5K4fpWMA4) | Explainer Chris & explainerguy01
-[Every Free App You Actually Need Explained (Part 2)](https://www.youtube.com/watch?v=AqPi6WjzM_Q) | Explainer Chris & explainerguy01
-[Every Free App You Actually Need Explained (Part 3)](https://www.youtube.com/watch?v=dSOdmHcD-gw) | Explainer Chris & explainerguy01
+- [Every Free App You Actually Need Explained in 20 Minutes](https://www.youtube.com/watch?v=Bf5K4fpWMA4) | Explainer Chris & explainerguy01
+- [Every Free App You Actually Need Explained (Part 2)](https://www.youtube.com/watch?v=AqPi6WjzM_Q) | Explainer Chris & explainerguy01
+- [Every Free App You Actually Need Explained (Part 3)](https://www.youtube.com/watch?v=dSOdmHcD-gw) | Explainer Chris & explainerguy01
